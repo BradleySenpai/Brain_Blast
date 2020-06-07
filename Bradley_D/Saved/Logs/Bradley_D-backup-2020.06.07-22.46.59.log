@@ -1,0 +1,1398 @@
+﻿Log file open, 06/07/20 16:05:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Bradley_D
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 17 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.762392
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: AMD FX(tm)-6300 Six-Core Processor             , GPU: NVIDIA GeForce GT 1030
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.06.07-20.05.03:897][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.06.07-20.05.03:897][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.06.07-20.05.03:897][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Brain_Blast/Bradley_D/Saved/Config/Windows/Engine.ini]
+[2020.06.07-20.05.03:897][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.06.07-20.05.03:897][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Brain_Blast/Bradley_D/Saved/Config/Windows/Engine.ini]
+[2020.06.07-20.05.03:897][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Brain_Blast/Bradley_D/Saved/Config/Windows/Engine.ini]
+[2020.06.07-20.05.03:897][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.06.07-20.05.03:898][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.06.07-20.05.03:898][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.06.07-20.05.03:898][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.06.07-20.05.03:898][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.06.07-20.05.03:898][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.06.07-20.05.03:898][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.06.07-20.05.03:898][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.06.07-20.05.03:898][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.06.07-20.05.03:898][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.06.07-20.05.03:898][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.06.07-20.05.03:898][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.06.07-20.05.03:898][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.06.07-20.05.03:898][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Brain_Blast/Bradley_D/Saved/Config/Windows/Engine.ini]
+[2020.06.07-20.05.03:898][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.06.07-20.05.03:898][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.06.07-20.05.03:898][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.06.07-20.05.03:898][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.06.07-20.05.03:898][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.06.07-20.05.03:898][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.06.07-20.05.03:898][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.06.07-20.05.03:898][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.06.07-20.05.03:898][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.06.07-20.05.03:898][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.06.07-20.05.03:898][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.06.07-20.05.03:898][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.06.07-20.05.03:898][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.06.07-20.05.03:898][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Brain_Blast/Bradley_D/Saved/Config/Windows/Engine.ini]
+[2020.06.07-20.05.03:898][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Brain_Blast/Bradley_D/Saved/Config/Windows/Engine.ini]
+[2020.06.07-20.05.03:910][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Brain_Blast/Bradley_D/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Brain_Blast/Bradley_D/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Brain_Blast/Bradley_D/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Brain_Blast/Bradley_D/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.07-20.05.03:910][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.07-20.05.03:911][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.07-20.05.03:911][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.07-20.05.03:911][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.07-20.05.03:911][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.07-20.05.03:911][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.07-20.05.03:911][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.07-20.05.03:911][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.07-20.05.03:911][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Brain_Blast/Bradley_D/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-20.05.03:911][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.07-20.05.03:911][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.07-20.05.03:911][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.07-20.05.03:911][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.07-20.05.03:911][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.07-20.05.03:911][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.07-20.05.03:911][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.07-20.05.03:911][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.07-20.05.03:911][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Brain_Blast/Bradley_D/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-20.05.03:911][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.07-20.05.03:911][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.07-20.05.03:911][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.07-20.05.03:911][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.07-20.05.03:911][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.07-20.05.03:911][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.07-20.05.03:911][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.07-20.05.03:911][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.07-20.05.03:911][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.07-20.05.03:911][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.07-20.05.03:911][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.07-20.05.03:911][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.07-20.05.03:911][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.07-20.05.03:911][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Brain_Blast/Bradley_D/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-20.05.03:911][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.07-20.05.03:911][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.07-20.05.03:912][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.07-20.05.03:912][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.06.07-20.05.03:927][  0]LogHAL: Display: Platform has ~ 8 GB [8481525760 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.06.07-20.05.03:928][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.06.07-20.05.03:928][  0]LogInit: Going up to parent DeviceProfile []
+[2020.06.07-20.05.03:928][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Brain_Blast/Bradley_D/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-20.05.03:928][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.07-20.05.03:928][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.07-20.05.03:928][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Brain_Blast/Bradley_D/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-20.05.03:928][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.07-20.05.03:928][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Brain_Blast/Bradley_D/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-20.05.03:928][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.07-20.05.03:928][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.07-20.05.03:928][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Brain_Blast/Bradley_D/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Brain_Blast/Bradley_D/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.07-20.05.03:929][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.07-20.05.03:930][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.07-20.05.03:930][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.07-20.05.03:930][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.07-20.05.03:930][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Brain_Blast/Bradley_D/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-20.05.03:930][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.07-20.05.03:930][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.07-20.05.03:930][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.07-20.05.03:930][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.07-20.05.03:930][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.07-20.05.03:930][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.07-20.05.03:930][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.07-20.05.03:930][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.07-20.05.03:930][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.07-20.05.03:930][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.07-20.05.03:930][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.07-20.05.03:930][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.07-20.05.03:930][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.07-20.05.03:930][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Brain_Blast/Bradley_D/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-20.05.03:930][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.07-20.05.03:930][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.07-20.05.03:930][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.06.07-20.05.03:931][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.06.07-20.05.03:931][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.06.07-20.05.03:931][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Brain_Blast/Bradley_D/Saved/Config/Windows/Engine.ini]
+[2020.06.07-20.05.03:931][  0]LogInit: Computer: DESKTOP-HBTKBE5
+[2020.06.07-20.05.03:931][  0]LogInit: User: devin
+[2020.06.07-20.05.03:931][  0]LogInit: CPU Page size=4096, Cores=3
+[2020.06.07-20.05.03:931][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.06.07-20.05.03:932][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.06.07-20.05.03:932][  0]LogMemory: Platform Memory Stats for Windows
+[2020.06.07-20.05.03:932][  0]LogMemory: Process Physical Memory: 95.98 MB used, 95.98 MB peak
+[2020.06.07-20.05.03:932][  0]LogMemory: Process Virtual Memory: 84.01 MB used, 84.01 MB peak
+[2020.06.07-20.05.03:932][  0]LogMemory: Physical Memory: 5487.45 MB used,  2601.16 MB free, 8088.61 MB total
+[2020.06.07-20.05.03:932][  0]LogMemory: Virtual Memory: 4643.84 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2020.06.07-20.05.04:079][  0]LogInit: Using OS detected language (en-US).
+[2020.06.07-20.05.04:079][  0]LogInit: Using OS detected locale (en-US).
+[2020.06.07-20.05.04:083][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.06.07-20.05.04:373][  0]LogInit: Setting process to per monitor DPI aware
+[2020.06.07-20.05.04:549][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.06.07-20.05.04:549][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.06.07-20.05.04:980][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.07-20.05.04:980][  0]LogD3D11RHI: D3D11 adapters:
+[2020.06.07-20.05.05:155][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 1030' (Feature Level 11_0)
+[2020.06.07-20.05.05:155][  0]LogD3D11RHI:       1982/0/4044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.06.07-20.05.05:171][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.06.07-20.05.05:171][  0]LogD3D11RHI:       0/0/4044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.06.07-20.05.05:174][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.06.07-20.05.05:174][  0]LogD3D11RHI:       0/0/4044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.06.07-20.05.05:174][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.06.07-20.05.05:185][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.06.07-20.05.05:185][  0]LogD3D11RHI:     GPU DeviceId: 0x1d01 (for the marketing name, search the web for "GPU Device Id")
+[2020.06.07-20.05.05:185][  0]LogWindows: EnumDisplayDevices:
+[2020.06.07-20.05.05:185][  0]LogWindows:    0. 'NVIDIA GeForce GT 1030' (P:1 D:1)
+[2020.06.07-20.05.05:185][  0]LogWindows:    1. 'NVIDIA GeForce GT 1030' (P:0 D:0)
+[2020.06.07-20.05.05:186][  0]LogWindows:    2. 'Trigger II External Graphics' (P:0 D:1)
+[2020.06.07-20.05.05:186][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:2 
+[2020.06.07-20.05.05:186][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 1030
+[2020.06.07-20.05.05:186][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.06.07-20.05.05:186][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.06.07-20.05.05:186][  0]LogRHI: Texture pool is 1387 MB (70% of 1982 MB)
+[2020.06.07-20.05.05:288][  0]LogD3D11RHI: Async texture creation enabled
+[2020.06.07-20.05.05:304][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.06.07-20.05.05:305][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.06.07-20.05.05:305][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.06.07-20.05.05:317][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.06.07-20.05.06:333][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.06.07-20.05.06:356][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.06.07-20.05.06:398][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.06.07-20.05.06:421][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.06.07-20.05.06:493][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.06.07-20.05.06:558][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.06.07-20.05.06:582][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.06.07-20.05.06:612][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.06.07-20.05.06:625][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.06.07-20.05.06:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.06.07-20.05.06:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.06.07-20.05.06:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.06.07-20.05.06:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.06.07-20.05.06:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.06.07-20.05.06:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.06.07-20.05.06:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.06.07-20.05.06:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.06.07-20.05.06:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.06.07-20.05.06:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.06.07-20.05.06:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.06.07-20.05.06:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.06.07-20.05.06:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.06.07-20.05.06:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.06.07-20.05.06:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.06.07-20.05.06:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.06.07-20.05.06:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.06.07-20.05.06:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.06.07-20.05.06:757][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.06.07-20.05.06:830][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.06.07-20.05.06:830][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.06.07-20.05.06:869][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.06.07-20.05.06:869][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.06.07-20.05.06:891][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.06.07-20.05.06:913][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.06.07-20.05.06:934][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.06.07-20.05.06:956][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.06.07-20.05.07:026][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.06.07-20.05.07:026][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.06.07-20.05.07:026][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.06.07-20.05.07:049][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.06.07-20.05.07:207][  0]LogShaderCompilers: Guid format shader working directory is 21 characters bigger than the processId version (F:/Brain_Blast/Bradley_D/Intermediate/Shaders/WorkingDirectory/14924/).
+[2020.06.07-20.05.07:207][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/devin/AppData/Local/Temp/UnrealShaderWorkingDir/F1A1BD304404513C429DFDA6D464DC12/'.
+[2020.06.07-20.05.07:212][  0]LogXGEController: Cleaning working directory: C:/Users/devin/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.06.07-20.05.07:213][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.06.07-20.05.07:213][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.06.07-20.05.07:213][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.06.07-20.05.08:287][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.06.07-20.05.08:620][  0]LogDerivedDataCache: Loaded boot cache 0.33s 71MB C:/Users/devin/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.06.07-20.05.08:620][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/devin/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.06.07-20.05.08:620][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/Brain_Blast/Bradley_D/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.06.07-20.05.08:620][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.06.07-20.05.08:620][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/Brain_Blast/Bradley_D/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.07-20.05.08:621][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.06.07-20.05.08:639][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.06.07-20.05.08:639][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.07-20.05.08:639][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.06.07-20.05.08:652][  0]LogDerivedDataCache: Using Local data cache path C:/Users/devin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.06.07-20.05.08:652][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.06.07-20.05.08:652][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.06.07-20.05.08:689][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.06.07-20.05.08:696][  0]LogSlate: Using FreeType 2.6.0
+[2020.06.07-20.05.08:701][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.06.07-20.05.08:894][  0]LogAssetRegistry: FAssetRegistry took 0.0421 seconds to start up
+[2020.06.07-20.05.09:529][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.07-20.05.09:846][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.06.07-20.05.09:846][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.06.07-20.05.09:846][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.06.07-20.05.09:846][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.06.07-20.05.09:846][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.06.07-20.05.09:894][  0]LogNetVersion: Bradley_D 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3931647246)
+[2020.06.07-20.05.10:811][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.043187 seconds
+[2020.06.07-20.05.10:820][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.06.07-20.05.10:820][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.06.07-20.05.10:820][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.06.07-20.05.13:136][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.06.07-20.05.13:156][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.06.07-20.05.13:453][  0]SourceControl: Source control is disabled
+[2020.06.07-20.05.13:453][  0]SourceControl: Source control is disabled
+[2020.06.07-20.05.13:467][  0]SourceControl: Source control is disabled
+[2020.06.07-20.05.13:475][  0]SourceControl: Source control is disabled
+[2020.06.07-20.05.13:493][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.06.07-20.05.13:494][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.06.07-20.05.14:130][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.06.07-20.05.14:528][  0]LogOcInput: OculusInput pre-init called
+[2020.06.07-20.05.15:525][  0]LogEngine: Initializing Engine...
+[2020.06.07-20.05.15:530][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.07-20.05.15:534][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.06.07-20.05.15:865][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.06.07-20.05.15:962][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.06.07-20.05.16:102][  0]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset )' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.07-20.05.16:316][  0]LogInit: FAudioDevice initialized.
+[2020.06.07-20.05.16:316][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.06.07-20.05.16:565][  0]LogFileManager: Error: Error writing to file: C:/Users/devin/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc (There is not enough space on the disk.)
+[2020.06.07-20.05.16:565][  0]LogDerivedDataCache: Saved boot cache 0.25s 71MB C:/Users/devin/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.06.07-20.05.16:565][  0]LogInit: Texture streaming: Enabled
+[2020.06.07-20.05.16:614][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.06.07-20.05.16:675][  0]LogInit: Transaction tracking system initialized
+[2020.06.07-20.05.16:749][  0]BlueprintLog: New page: Editor Load
+[2020.06.07-20.05.17:052][  0]LocalizationService: Localization service is disabled
+[2020.06.07-20.05.17:342][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.06.07-20.05.17:343][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.06.07-20.05.17:905][  0]LogFileCache: Scanning file cache for directory 'F:/Brain_Blast/Bradley_D/Content/' took 0.11s
+[2020.06.07-20.05.17:905][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.06.07-20.05.17:919][  0]LogCook: Display: Mobile HDR setting 1
+[2020.06.07-20.05.18:520][  0]SourceControl: Source control is disabled
+[2020.06.07-20.05.18:525][  0]Cmd: MAP LOAD FILE="F:/Brain_Blast/Bradley_D/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.07-20.05.18:537][  0]LightingResults: New page: Lighting Build
+[2020.06.07-20.05.18:556][  0]MapCheck: New page: Map Check
+[2020.06.07-20.05.18:556][  0]LightingResults: New page: Lighting Build
+[2020.06.07-20.05.18:683][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.06.07-20.05.19:499][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.07-20.05.19:574][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.07-20.05.19:694][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.06.07-20.05.19:694][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.07-20.05.19:695][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.479ms to complete.
+[2020.06.07-20.05.19:695][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.171
+[2020.06.07-20.05.19:921][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-20.05.19:934][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-20.05.19:945][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-20.05.19:959][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-20.05.19:981][  0]LogCollectionManager: Loaded 0 collections in 0.002768 seconds
+[2020.06.07-20.05.20:038][  0]LogFileCache: Scanning file cache for directory 'F:/Brain_Blast/Bradley_D/Saved/Collections/' took 0.01s
+[2020.06.07-20.05.20:038][  0]LogFileCache: Scanning file cache for directory 'F:/Brain_Blast/Bradley_D/Content/Developers/devin/Collections/' took 0.01s
+[2020.06.07-20.05.20:038][  0]LogFileCache: Scanning file cache for directory 'F:/Brain_Blast/Bradley_D/Content/Collections/' took 0.00s
+[2020.06.07-20.05.20:038][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.06.07-20.05.20:062][  0]LogContentBrowser: Native class hierarchy populated in 0.0214 seconds. Added 2732 classes and 659 folders.
+[2020.06.07-20.05.20:086][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.06.07-20.05.20:095][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.07-20.05.20:101][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.07-20.05.20:104][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.07-20.05.20:106][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.07-20.05.20:108][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.07-20.05.20:110][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.07-20.05.20:113][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.07-20.05.20:115][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.07-20.05.20:118][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.07-20.05.20:120][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.07-20.05.20:122][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.07-20.05.20:124][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.07-20.05.20:127][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.07-20.05.20:130][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.07-20.05.20:132][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.07-20.05.20:135][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.07-20.05.20:137][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.07-20.05.20:140][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.07-20.05.20:142][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.07-20.05.20:145][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.07-20.05.20:147][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.07-20.05.20:150][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.07-20.05.20:153][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.07-20.05.20:155][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.07-20.05.20:158][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.07-20.05.20:160][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.07-20.05.20:308][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.06.07-20.05.20:325][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.06.07-20.05.20:517][  0]LogSlate: Took 0.001298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.07-20.05.20:523][  0]LogSlate: Took 0.001374 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.06.07-20.05.20:536][  0]LogSlate: Took 0.001290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.06.07-20.05.20:714][  0]LogRenderer: Reallocating scene render targets to support 1208x608 Format 10 NumSamples 1 (Frame:1).
+[2020.06.07-20.05.21:065][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-20.05.21:118][  0]LogSlate: Window 'Tutorials' being destroyed
+[2020.06.07-20.05.21:172][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.06.07-20.05.21:172][  0]LogLoad: (Engine Initialization) Total time: 23.27 seconds
+[2020.06.07-20.05.21:172][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.06.07-20.05.21:249][  0]LogAssetRegistry: Asset discovery search completed in 12.3776 seconds
+[2020.06.07-20.05.21:252][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.06.07-20.05.21:252][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000357 seconds (updated 0 objects)
+[2020.06.07-20.05.21:262][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.06.07-20.05.21:304][  0]LogSlate: Took 0.001152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.07-20.05.50:754][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-20.05.50:915][499]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.07-20.05.51:145][499]LogAIModule: Creating AISystem for world Bradly_d
+[2020.06.07-20.05.51:171][499]LogAssetEditorManager: Opening Asset editor for World /Game/Bradly_d.Bradly_d
+[2020.06.07-20.05.51:266][499]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.06.07-20.05.51:269][499]Cmd: MAP LOAD FILE="F:/Brain_Blast/Bradley_D/Content/Bradly_d.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.07-20.05.51:269][499]LightingResults: New page: Lighting Build
+[2020.06.07-20.05.51:270][499]LoadErrors: New page: Loading map: Bradly_d.umap
+[2020.06.07-20.05.51:272][499]MapCheck: New page: Map Check
+[2020.06.07-20.05.51:272][499]LightingResults: New page: Lighting Build
+[2020.06.07-20.05.51:385][499]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.06.07-20.05.51:621][499]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.07-20.05.51:683][499]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.06.07-20.05.51:698][499]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.07-20.05.51:699][499]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.113ms to complete.
+[2020.06.07-20.05.51:699][499]LogFileHelpers: Loading map 'Bradly_d' took 0.431
+[2020.06.07-21.09.06:330][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-21.09.08:625][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-21.09.09:152][143]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-21.09.09:163][143]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.09.09:166][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-21.09.09:167][143]PIE: New page: PIE session: Bradly_d (Jun 7, 2020, 1:09:09 PM)
+[2020.06.07-21.09.09:188][143]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Bradly_d
+[2020.06.07-21.09.09:255][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066538s)
+[2020.06.07-21.09.09:257][143]LogAIModule: Creating AISystem for world Bradly_d
+[2020.06.07-21.09.09:259][143]LogPlayLevel: PIE: World Init took: (0.003363s)
+[2020.06.07-21.09.09:259][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bradly_d.Bradly_d to /Game/UEDPIE_0_Bradly_d.Bradly_d (0.070286s)
+[2020.06.07-21.09.09:367][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.06.07-21.09.09:466][143]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset )' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.07-21.09.09:488][143]LogInit: FAudioDevice initialized.
+[2020.06.07-21.09.09:568][143]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.07-21.09.09:584][143]LogWorld: Bringing World /Game/UEDPIE_0_Bradly_d.Bradly_d up for play (max tick rate 0) at 2020.06.07-17.09.09
+[2020.06.07-21.09.09:589][143]LogWorld: Bringing up level for play took: 0.008218
+[2020.06.07-21.09.09:633][143]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.06.07-21.09.09:638][143]PIE: Play in editor start time for /Game/UEDPIE_0_Bradly_d 0.049
+[2020.06.07-21.09.09:647][143]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.09.15:456][811]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.09.15:461][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-21.09.15:493][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-21.09.15:494][811]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.09.15:603][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-21.09.15:611][811]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.06.07-21.09.15:643][812]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.06.07-21.09.17:570][ 38]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.06.07-21.09.25:404][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-21.09.32:976][283]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-21.09.32:985][283]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.09.32:986][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-21.09.32:986][283]PIE: New page: PIE session: Bradly_d (Jun 7, 2020, 1:09:32 PM)
+[2020.06.07-21.09.32:986][283]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Bradly_d
+[2020.06.07-21.09.33:025][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039290s)
+[2020.06.07-21.09.33:026][283]LogAIModule: Creating AISystem for world Bradly_d
+[2020.06.07-21.09.33:026][283]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2020.06.07-21.09.33:026][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bradly_d.Bradly_d to /Game/UEDPIE_0_Bradly_d.Bradly_d (0.040273s)
+[2020.06.07-21.09.33:135][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.06.07-21.09.33:225][283]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset )' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.07-21.09.33:246][283]LogInit: FAudioDevice initialized.
+[2020.06.07-21.09.33:278][283]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.07-21.09.33:283][283]LogWorld: Bringing World /Game/UEDPIE_0_Bradly_d.Bradly_d up for play (max tick rate 0) at 2020.06.07-17.09.33
+[2020.06.07-21.09.33:283][283]LogWorld: Bringing up level for play took: 0.003963
+[2020.06.07-21.09.33:296][283]PIE: Play in editor start time for /Game/UEDPIE_0_Bradly_d -0.292
+[2020.06.07-21.09.33:296][283]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.09.43:334][469]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.09.43:334][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-21.09.43:366][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-21.09.43:367][469]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.09.43:470][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-21.09.43:475][469]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.06.07-21.09.43:507][470]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.06.07-21.09.48:127][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.06.07-21.09.49:497][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-21.09.59:128][666]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-21.09.59:138][666]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.09.59:138][666]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-21.09.59:138][666]PIE: New page: PIE session: Bradly_d (Jun 7, 2020, 1:09:59 PM)
+[2020.06.07-21.09.59:138][666]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Bradly_d
+[2020.06.07-21.09.59:177][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039324s)
+[2020.06.07-21.09.59:178][666]LogAIModule: Creating AISystem for world Bradly_d
+[2020.06.07-21.09.59:178][666]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2020.06.07-21.09.59:178][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bradly_d.Bradly_d to /Game/UEDPIE_0_Bradly_d.Bradly_d (0.040183s)
+[2020.06.07-21.09.59:288][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.06.07-21.09.59:378][666]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset )' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.07-21.09.59:398][666]LogInit: FAudioDevice initialized.
+[2020.06.07-21.09.59:427][666]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.07-21.09.59:431][666]LogWorld: Bringing World /Game/UEDPIE_0_Bradly_d.Bradly_d up for play (max tick rate 0) at 2020.06.07-17.09.59
+[2020.06.07-21.09.59:431][666]LogWorld: Bringing up level for play took: 0.003541
+[2020.06.07-21.09.59:445][666]PIE: Play in editor start time for /Game/UEDPIE_0_Bradly_d -0.144
+[2020.06.07-21.09.59:445][666]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.10.26:160][839]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.10.26:160][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-21.10.26:188][839]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-21.10.26:189][839]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.10.26:285][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-21.10.26:291][839]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.06.07-21.10.26:321][840]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.06.07-21.10.46:556][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-21.11.12:303][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.06.07-21.11.12:305][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bradly_d" FILE="F:/Brain_Blast/Bradley_D/Saved/Autosaves/Game/Bradly_d_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.06.07-21.11.12:676][278]LogSavePackage: Moving 'F:/Brain_Blast/Bradley_D/Saved/Bradly_d_Auto1149325F4458BF9363D88D9AAB4C22056.tmp' to 'F:/Brain_Blast/Bradley_D/Saved/Autosaves/Game/Bradly_d_Auto1.umap'
+[2020.06.07-21.11.12:689][278]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Bradly_d' took 0.498
+[2020.06.07-21.11.12:689][278]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.498
+[2020.06.07-21.36.36:420][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-21.36.36:505][ 77]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-21.36.36:515][ 77]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.36.36:515][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-21.36.36:515][ 77]PIE: New page: PIE session: Bradly_d (Jun 7, 2020, 1:36:36 PM)
+[2020.06.07-21.36.36:516][ 77]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Bradly_d
+[2020.06.07-21.36.36:560][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044649s)
+[2020.06.07-21.36.36:561][ 77]LogAIModule: Creating AISystem for world Bradly_d
+[2020.06.07-21.36.36:561][ 77]LogPlayLevel: PIE: World Init took: (0.001098s)
+[2020.06.07-21.36.36:562][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bradly_d.Bradly_d to /Game/UEDPIE_0_Bradly_d.Bradly_d (0.046033s)
+[2020.06.07-21.36.36:654][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.06.07-21.36.36:751][ 77]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset )' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.07-21.36.36:773][ 77]LogInit: FAudioDevice initialized.
+[2020.06.07-21.36.36:802][ 77]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.07-21.36.36:807][ 77]LogWorld: Bringing World /Game/UEDPIE_0_Bradly_d.Bradly_d up for play (max tick rate 0) at 2020.06.07-17.36.36
+[2020.06.07-21.36.36:808][ 77]LogWorld: Bringing up level for play took: 0.004353
+[2020.06.07-21.36.36:821][ 77]PIE: Play in editor start time for /Game/UEDPIE_0_Bradly_d 1.233
+[2020.06.07-21.36.36:831][ 77]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.36.37:439][142]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.36.37:440][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-21.36.37:476][142]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-21.36.37:476][142]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.36.37:569][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-21.36.37:575][142]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.06.07-21.36.37:611][143]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.06.07-21.36.44:114][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-21.36.44:309][907]LogRenderer: Reallocating scene render targets to support 1208x612 Format 10 NumSamples 1 (Frame:185984).
+[2020.06.07-21.36.44:362][908]LogRenderer: Reallocating scene render targets to support 1208x616 Format 10 NumSamples 1 (Frame:185986).
+[2020.06.07-21.36.44:426][909]LogRenderer: Reallocating scene render targets to support 1208x620 Format 10 NumSamples 1 (Frame:185988).
+[2020.06.07-21.36.44:479][910]LogRenderer: Reallocating scene render targets to support 1208x624 Format 10 NumSamples 1 (Frame:185990).
+[2020.06.07-21.36.44:525][911]LogRenderer: Reallocating scene render targets to support 1208x632 Format 10 NumSamples 1 (Frame:185992).
+[2020.06.07-21.36.44:609][913]LogRenderer: Reallocating scene render targets to support 1208x636 Format 10 NumSamples 1 (Frame:185996).
+[2020.06.07-21.36.44:657][914]LogRenderer: Reallocating scene render targets to support 1208x644 Format 10 NumSamples 1 (Frame:185998).
+[2020.06.07-21.36.44:707][915]LogRenderer: Reallocating scene render targets to support 1208x648 Format 10 NumSamples 1 (Frame:186000).
+[2020.06.07-21.36.44:811][919]LogRenderer: Reallocating scene render targets to support 1208x656 Format 10 NumSamples 1 (Frame:186004).
+[2020.06.07-21.36.44:899][921]LogRenderer: Reallocating scene render targets to support 1208x660 Format 10 NumSamples 1 (Frame:186008).
+[2020.06.07-21.36.44:984][923]LogRenderer: Reallocating scene render targets to support 1208x664 Format 10 NumSamples 1 (Frame:186012).
+[2020.06.07-21.36.45:110][930]LogRenderer: Reallocating scene render targets to support 1208x668 Format 10 NumSamples 1 (Frame:186016).
+[2020.06.07-21.37.38:187][604]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.06.07-21.37.38:709][604]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 121 classes and 0 folders.
+[2020.06.07-21.37.40:113][604]LogSlate: Took 0.001322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.06.07-21.37.40:277][605]LogSlate: Took 0.001502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.06.07-21.40.33:228][710]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2020.06.07-21.40.33:228][710]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Bradly_d' took 0.109
+[2020.06.07-21.40.33:230][710]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2020.06.07-21.40.33:253][710]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2020.06.07-21.40.33:253][710]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2020.06.07-21.40.33:339][710]LogSavePackage: Moving 'F:/Brain_Blast/Bradley_D/Saved/ThirdPersonCharacter_Auto2830DFC2D45F469F5AFD34A827489D3A7.tmp' to 'F:/Brain_Blast/Bradley_D/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2020.06.07-21.40.33:340][710]LogFileHelpers: Auto-saving content packages took 0.111
+[2020.06.07-21.42.21:892][797]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.06.07-21.42.22:223][797]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2020.06.07-21.42.24:959][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="F:/Brain_Blast/Bradley_D/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.06.07-21.42.25:026][994]LogSavePackage: Moving 'F:/Brain_Blast/Bradley_D/Saved/ThirdPersonCharacter8F47080942549DA68C528C879AB3DC89.tmp' to 'F:/Brain_Blast/Bradley_D/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.06.07-21.42.28:789][138]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-21.42.28:811][138]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.42.28:811][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-21.42.28:811][138]PIE: New page: PIE session: Bradly_d (Jun 7, 2020, 1:42:28 PM)
+[2020.06.07-21.42.28:811][138]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Bradly_d
+[2020.06.07-21.42.28:851][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039701s)
+[2020.06.07-21.42.28:851][138]LogAIModule: Creating AISystem for world Bradly_d
+[2020.06.07-21.42.28:851][138]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2020.06.07-21.42.28:852][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bradly_d.Bradly_d to /Game/UEDPIE_0_Bradly_d.Bradly_d (0.040599s)
+[2020.06.07-21.42.28:937][138]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2020.06.07-21.42.29:027][138]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset )' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.07-21.42.29:047][138]LogInit: FAudioDevice initialized.
+[2020.06.07-21.42.29:080][138]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.07-21.42.29:085][138]LogWorld: Bringing World /Game/UEDPIE_0_Bradly_d.Bradly_d up for play (max tick rate 0) at 2020.06.07-17.42.29
+[2020.06.07-21.42.29:085][138]LogWorld: Bringing up level for play took: 0.004460
+[2020.06.07-21.42.29:099][138]PIE: Play in editor start time for /Game/UEDPIE_0_Bradly_d -0.49
+[2020.06.07-21.42.29:099][138]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.42.42:155][232]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.42.42:155][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-21.42.42:199][232]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-21.42.42:199][232]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.42.42:284][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-21.42.42:292][232]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.06.07-21.42.42:370][233]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.06.07-21.42.46:730][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-21.42.57:739][494]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.06.07-21.42.58:016][494]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2020.06.07-21.42.59:179][577]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-21.42.59:200][577]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.42.59:201][577]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-21.42.59:201][577]PIE: New page: PIE session: Bradly_d (Jun 7, 2020, 1:42:59 PM)
+[2020.06.07-21.42.59:201][577]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Bradly_d
+[2020.06.07-21.42.59:241][577]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039961s)
+[2020.06.07-21.42.59:241][577]LogAIModule: Creating AISystem for world Bradly_d
+[2020.06.07-21.42.59:242][577]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2020.06.07-21.42.59:242][577]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bradly_d.Bradly_d to /Game/UEDPIE_0_Bradly_d.Bradly_d (0.040981s)
+[2020.06.07-21.42.59:346][577]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2020.06.07-21.42.59:433][577]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset )' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.07-21.42.59:453][577]LogInit: FAudioDevice initialized.
+[2020.06.07-21.42.59:490][577]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.07-21.42.59:495][577]LogWorld: Bringing World /Game/UEDPIE_0_Bradly_d.Bradly_d up for play (max tick rate 0) at 2020.06.07-17.42.59
+[2020.06.07-21.42.59:496][577]LogWorld: Bringing up level for play took: 0.004752
+[2020.06.07-21.42.59:509][577]PIE: Play in editor start time for /Game/UEDPIE_0_Bradly_d -0.079
+[2020.06.07-21.42.59:510][577]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.42.59:578][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-21.43.10:691][491]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.43.10:691][491]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-21.43.10:733][491]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-21.43.10:733][491]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.43.10:830][491]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-21.43.10:839][491]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.06.07-21.43.10:923][492]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.06.07-21.43.13:698][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-21.43.22:914][477]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.06.07-21.43.23:196][477]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2020.06.07-21.43.24:165][540]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-21.43.24:187][540]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.43.24:187][540]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-21.43.24:187][540]PIE: New page: PIE session: Bradly_d (Jun 7, 2020, 1:43:24 PM)
+[2020.06.07-21.43.24:187][540]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Bradly_d
+[2020.06.07-21.43.24:228][540]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041425s)
+[2020.06.07-21.43.24:229][540]LogAIModule: Creating AISystem for world Bradly_d
+[2020.06.07-21.43.24:229][540]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2020.06.07-21.43.24:230][540]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bradly_d.Bradly_d to /Game/UEDPIE_0_Bradly_d.Bradly_d (0.042554s)
+[2020.06.07-21.43.24:328][540]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2020.06.07-21.43.24:418][540]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset )' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.07-21.43.24:438][540]LogInit: FAudioDevice initialized.
+[2020.06.07-21.43.24:471][540]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.07-21.43.24:478][540]LogWorld: Bringing World /Game/UEDPIE_0_Bradly_d.Bradly_d up for play (max tick rate 0) at 2020.06.07-17.43.24
+[2020.06.07-21.43.24:478][540]LogWorld: Bringing up level for play took: 0.004679
+[2020.06.07-21.43.24:491][540]PIE: Play in editor start time for /Game/UEDPIE_0_Bradly_d 0.903
+[2020.06.07-21.43.24:491][540]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.43.35:481][462]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.43.35:481][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-21.43.35:523][462]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-21.43.35:524][462]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.43.35:618][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-21.43.35:625][462]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.06.07-21.43.35:714][463]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.06.07-21.43.41:282][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-21.43.48:009][ 81]LogSlate: Window 'Tutorials' being destroyed
+[2020.06.07-21.43.49:607][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-21.44.19:627][397]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.06.07-21.44.19:945][397]LogUObjectHash: Compacting FUObjectHashTables data took   6.10ms
+[2020.06.07-21.44.22:054][510]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-21.44.22:078][510]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.44.22:078][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-21.44.22:078][510]PIE: New page: PIE session: Bradly_d (Jun 7, 2020, 1:44:22 PM)
+[2020.06.07-21.44.22:078][510]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Bradly_d
+[2020.06.07-21.44.22:121][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042368s)
+[2020.06.07-21.44.22:121][510]LogAIModule: Creating AISystem for world Bradly_d
+[2020.06.07-21.44.22:122][510]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2020.06.07-21.44.22:122][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bradly_d.Bradly_d to /Game/UEDPIE_0_Bradly_d.Bradly_d (0.043323s)
+[2020.06.07-21.44.22:216][510]LogUObjectHash: Compacting FUObjectHashTables data took   6.39ms
+[2020.06.07-21.44.22:314][510]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset )' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.07-21.44.22:337][510]LogInit: FAudioDevice initialized.
+[2020.06.07-21.44.22:365][510]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.07-21.44.22:369][510]LogWorld: Bringing World /Game/UEDPIE_0_Bradly_d.Bradly_d up for play (max tick rate 0) at 2020.06.07-17.44.22
+[2020.06.07-21.44.22:369][510]LogWorld: Bringing up level for play took: 0.003155
+[2020.06.07-21.44.22:383][510]PIE: Play in editor start time for /Game/UEDPIE_0_Bradly_d 0.795
+[2020.06.07-21.44.22:384][510]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.44.40:321][ 36]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.44.40:321][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-21.44.40:366][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-21.44.40:366][ 36]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.44.40:441][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-21.44.40:450][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2020.06.07-21.44.40:547][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.06.07-21.44.42:651][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-21.44.49:333][708]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.06.07-21.44.49:656][708]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2020.06.07-21.44.50:350][755]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-21.44.50:374][755]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.44.50:374][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-21.44.50:374][755]PIE: New page: PIE session: Bradly_d (Jun 7, 2020, 1:44:50 PM)
+[2020.06.07-21.44.50:375][755]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Bradly_d
+[2020.06.07-21.44.50:418][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043701s)
+[2020.06.07-21.44.50:419][755]LogAIModule: Creating AISystem for world Bradly_d
+[2020.06.07-21.44.50:419][755]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2020.06.07-21.44.50:419][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bradly_d.Bradly_d to /Game/UEDPIE_0_Bradly_d.Bradly_d (0.044739s)
+[2020.06.07-21.44.50:512][755]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2020.06.07-21.44.50:609][755]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset )' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.07-21.44.50:633][755]LogInit: FAudioDevice initialized.
+[2020.06.07-21.44.50:666][755]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.07-21.44.50:672][755]LogWorld: Bringing World /Game/UEDPIE_0_Bradly_d.Bradly_d up for play (max tick rate 0) at 2020.06.07-17.44.50
+[2020.06.07-21.44.50:674][755]LogWorld: Bringing up level for play took: 0.005630
+[2020.06.07-21.44.50:688][755]PIE: Play in editor start time for /Game/UEDPIE_0_Bradly_d 1.099
+[2020.06.07-21.44.50:688][755]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.45.03:408][708]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.45.03:409][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-21.45.03:458][708]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-21.45.03:458][708]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.45.03:559][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-21.45.03:568][708]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.06.07-21.45.03:651][709]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.06.07-21.45.45:894][482]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-21.45.52:140][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-21.45.52:313][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="F:/Brain_Blast/Bradley_D/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.06.07-21.45.52:439][871]LogSavePackage: Moving 'F:/Brain_Blast/Bradley_D/Saved/ThirdPersonCharacter97C251FE4FD41EFC6C889089FA8B3351.tmp' to 'F:/Brain_Blast/Bradley_D/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.06.07-21.45.53:476][945]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-21.45.54:101][987]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.06.07-21.45.54:108][987]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.06.07-21.46.03:744][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-21.46.20:092][876]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.06.07-21.46.54:992][594]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush69)
+[2020.06.07-21.46.55:695][667]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush69)
+[2020.06.07-21.47.03:663][544]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush69)
+[2020.06.07-21.47.03:808][554]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush69)
+[2020.06.07-21.47.09:795][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-21.47.17:923][ 35]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.07-21.47.19:211][179]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-21.47.19:519][206]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.07-21.47.28:314][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-21.47.29:496][204]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.07-21.47.42:776][643]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.07-21.48.05:792][198]Cmd: TRANSACTION UNDO
+[2020.06.07-21.48.05:792][198]LogEditorTransaction: Undo Move Actors
+[2020.06.07-21.48.05:871][198]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2020.06.07-21.48.05:871][198]LogGeometryMode: Warning: Unable to resolve BoxBrush69 Brush in new BSP, see above
+[2020.06.07-21.48.05:871][198]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.06.07-21.48.06:463][243]Cmd: TRANSACTION UNDO
+[2020.06.07-21.48.06:463][243]LogEditorTransaction: Undo Move Actors
+[2020.06.07-21.48.06:534][243]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2020.06.07-21.48.06:534][243]LogGeometryMode: Warning: Unable to resolve BoxBrush69 Brush in new BSP, see above
+[2020.06.07-21.48.06:534][243]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.06.07-21.48.07:615][351]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.07-21.48.09:229][520]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.07-21.48.18:902][525]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.07-21.48.20:535][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-21.48.24:885][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-21.48.27:582][136]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2020.06.07-21.48.41:818][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-21.48.46:810][231]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.07-21.48.58:009][384]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.07-21.49.16:354][282]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.07-21.49.55:225][315]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2020.06.07-21.50.33:099][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-21.51.03:341][268]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.06.07-21.51.03:694][297]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.07-21.51.23:963][508]LogGeometryMode: Warning: Unable to find BoxBrush74 Brush(s) in new BSP
+[2020.06.07-21.51.23:963][508]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.06.07-21.51.28:285][965]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2020.06.07-21.52.11:917][782]Cmd: POLY SELECT MEMORY XOR
+[2020.06.07-21.52.13:847][  3]Cmd: TRANSACTION UNDO
+[2020.06.07-21.52.13:847][  3]LogEditorTransaction: Undo XOR Selection Set
+[2020.06.07-21.52.14:312][ 33]Cmd: TRANSACTION UNDO
+[2020.06.07-21.52.14:312][ 33]LogEditorTransaction: Undo Move Actors
+[2020.06.07-21.52.14:417][ 33]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.06.07-21.52.14:417][ 33]LogGeometryMode: Warning: Unable to resolve BoxBrush75 Brush in new BSP, see above
+[2020.06.07-21.52.14:417][ 33]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.06.07-21.52.38:690][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-21.52.40:712][790]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2020.06.07-21.52.51:226][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-21.52.53:018][ 96]LogGeometryMode: Warning: Unable to find BoxBrush11 Brush(s) in new BSP
+[2020.06.07-21.52.53:018][ 96]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.06.07-21.52.59:030][731]LogGeometryMode: Warning: Unable to find BoxBrush3 Brush(s) in new BSP
+[2020.06.07-21.52.59:030][731]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.06.07-21.53.07:358][619]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.07-21.53.31:624][877]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.07-21.53.35:352][259]Cmd: TRANSACTION UNDO
+[2020.06.07-21.53.35:352][259]LogEditorTransaction: Undo Move Actors
+[2020.06.07-21.54.08:362][765]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.07-21.54.15:683][505]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.07-21.54.18:694][796]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.07-21.54.26:252][602]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.07-21.54.30:295][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-21.54.30:369][ 37]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-21.54.30:383][ 37]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.54.30:383][ 37]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-21.54.30:383][ 37]PIE: New page: PIE session: Bradly_d (Jun 7, 2020, 1:54:30 PM)
+[2020.06.07-21.54.30:383][ 37]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Bradly_d
+[2020.06.07-21.54.30:433][ 37]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049505s)
+[2020.06.07-21.54.30:434][ 37]LogAIModule: Creating AISystem for world Bradly_d
+[2020.06.07-21.54.30:434][ 37]LogPlayLevel: PIE: World Init took: (0.001081s)
+[2020.06.07-21.54.30:434][ 37]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bradly_d.Bradly_d to /Game/UEDPIE_0_Bradly_d.Bradly_d (0.050781s)
+[2020.06.07-21.54.30:548][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   6.06ms
+[2020.06.07-21.54.30:641][ 37]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset )' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.07-21.54.30:666][ 37]LogInit: FAudioDevice initialized.
+[2020.06.07-21.54.30:696][ 37]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.07-21.54.30:700][ 37]LogWorld: Bringing World /Game/UEDPIE_0_Bradly_d.Bradly_d up for play (max tick rate 0) at 2020.06.07-17.54.30
+[2020.06.07-21.54.30:700][ 37]LogWorld: Bringing up level for play took: 0.003174
+[2020.06.07-21.54.30:714][ 37]PIE: Play in editor start time for /Game/UEDPIE_0_Bradly_d 1.125
+[2020.06.07-21.54.30:715][ 37]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.55.28:544][940]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.55.28:544][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-21.55.28:584][940]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-21.55.28:584][940]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.55.28:697][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-21.55.28:706][940]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2020.06.07-21.55.28:738][941]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.06.07-21.55.32:749][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.06.07-21.55.32:893][393]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.07-21.55.36:221][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-21.55.46:422][235]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-21.55.46:432][235]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.55.46:432][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-21.55.46:432][235]PIE: New page: PIE session: Bradly_d (Jun 7, 2020, 1:55:46 PM)
+[2020.06.07-21.55.46:433][235]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Bradly_d
+[2020.06.07-21.55.46:482][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049566s)
+[2020.06.07-21.55.46:483][235]LogAIModule: Creating AISystem for world Bradly_d
+[2020.06.07-21.55.46:483][235]LogPlayLevel: PIE: World Init took: (0.000749s)
+[2020.06.07-21.55.46:483][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bradly_d.Bradly_d to /Game/UEDPIE_0_Bradly_d.Bradly_d (0.050497s)
+[2020.06.07-21.55.46:595][235]LogUObjectHash: Compacting FUObjectHashTables data took   6.12ms
+[2020.06.07-21.55.46:686][235]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset )' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.07-21.55.46:708][235]LogInit: FAudioDevice initialized.
+[2020.06.07-21.55.46:741][235]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.07-21.55.46:745][235]LogWorld: Bringing World /Game/UEDPIE_0_Bradly_d.Bradly_d up for play (max tick rate 0) at 2020.06.07-17.55.46
+[2020.06.07-21.55.46:746][235]LogWorld: Bringing up level for play took: 0.003653
+[2020.06.07-21.55.46:758][235]PIE: Play in editor start time for /Game/UEDPIE_0_Bradly_d 1.17
+[2020.06.07-21.55.46:758][235]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.56.33:661][810]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.56.33:661][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-21.56.33:695][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-21.56.33:696][810]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bradly_d.Bradly_d:PersistentLevel' has LevelScriptBlueprint '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d' with GeneratedClass '/Game/Bradly_d.Bradly_d_C' with ClassGeneratedBy '/Game/Bradly_d.Bradly_d:PersistentLevel.Bradly_d'
+[2020.06.07-21.56.33:803][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-21.56.33:813][810]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.06.07-21.56.33:845][811]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.06.07-21.56.33:878][812]Cmd: SELECT NONE
+[2020.06.07-21.57.04:374][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-21.57.08:622][710]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.06.07-21.57.15:091][440]Cmd: DELETE
+[2020.06.07-21.57.15:091][440]Cmd: ACTOR DELETE
+[2020.06.07-21.57.15:123][440]LogEditorActor: Deleted Actor: Brush
+[2020.06.07-21.57.15:212][440]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2020.06.07-21.57.15:257][440]LogEditorActor: Deleted 1 Actors (0.165 secs)
+[2020.06.07-21.57.46:009][186]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2020.06.07-21.57.46:011][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bradly_d" FILE="F:/Brain_Blast/Bradley_D/Saved/Autosaves/Game/Bradly_d_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.06.07-21.57.47:956][186]LogSavePackage: Moving 'F:/Brain_Blast/Bradley_D/Saved/Bradly_d_Auto33FAC61DD4EA9B169B3AF40BF1804A0F7.tmp' to 'F:/Brain_Blast/Bradley_D/Saved/Autosaves/Game/Bradly_d_Auto3.umap'
+[2020.06.07-21.57.47:964][186]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Bradly_d' took 2.043
+[2020.06.07-21.57.47:965][186]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.043
+[2020.06.07-22.07.19:727][892]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.07-22.07.20:469][938]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-22.07.20:483][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bradly_d" FILE="F:/Brain_Blast/Bradley_D/Content/Bradly_d.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.07-22.07.20:575][938]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2020.06.07-22.07.21:476][938]LogSavePackage: Moving 'F:/Brain_Blast/Bradley_D/Saved/Bradly_d88D749EF420C0E51A68584BB297B3112.tmp' to 'F:/Brain_Blast/Bradley_D/Content/Bradly_d.umap'
+[2020.06.07-22.07.21:565][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bradly_d_BuiltData" FILE="F:/Brain_Blast/Bradley_D/Content/Bradly_d_BuiltData.uasset" SILENT=true
+[2020.06.07-22.07.21:886][938]LogSavePackage: Moving 'F:/Brain_Blast/Bradley_D/Saved/Bradly_d_BuiltData4E031BB24F28E66E3F66378ECBC24480.tmp' to 'F:/Brain_Blast/Bradley_D/Content/Bradly_d_BuiltData.uasset'
+[2020.06.07-22.17.20:473][588]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-22.17.20:607][588]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2020.06.07-22.17.20:609][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bradly_d" FILE="F:/Brain_Blast/Bradley_D/Saved/Autosaves/Game/Bradly_d_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.06.07-22.17.21:037][588]LogSavePackage: Moving 'F:/Brain_Blast/Bradley_D/Saved/Bradly_d_Auto40A510CB24F38C76DE38FE7ADA31BF667.tmp' to 'F:/Brain_Blast/Bradley_D/Saved/Autosaves/Game/Bradly_d_Auto4.umap'
+[2020.06.07-22.17.21:039][588]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Bradly_d' took 0.552
+[2020.06.07-22.17.21:039][588]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.552
+[2020.06.07-22.38.46:256][761]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-22.38.46:264][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bradly_d" FILE="F:/Brain_Blast/Bradley_D/Content/Bradly_d.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.07-22.38.46:351][761]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.06.07-22.38.46:781][761]LogSavePackage: Moving 'F:/Brain_Blast/Bradley_D/Saved/Bradly_d5453080246DC595AF05AF786BA1D485C.tmp' to 'F:/Brain_Blast/Bradley_D/Content/Bradly_d.umap'
+[2020.06.07-22.38.46:800][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bradly_d_BuiltData" FILE="F:/Brain_Blast/Bradley_D/Content/Bradly_d_BuiltData.uasset" SILENT=true
+[2020.06.07-22.38.47:012][761]LogSavePackage: Moving 'F:/Brain_Blast/Bradley_D/Saved/Bradly_d_BuiltDataD3EB1C344E203828D62965A7DCF7951D.tmp' to 'F:/Brain_Blast/Bradley_D/Content/Bradly_d_BuiltData.uasset'
+[2020.06.07-22.39.20:783][154]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-22.39.20:790][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bradly_d" FILE="F:/Brain_Blast/Bradley_D/Content/Bradly_d.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.07-22.39.20:885][154]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.06.07-22.39.21:315][154]LogSavePackage: Moving 'F:/Brain_Blast/Bradley_D/Saved/Bradly_dD68EFB484E59C66D27E421AAF60B35EF.tmp' to 'F:/Brain_Blast/Bradley_D/Content/Bradly_d.umap'
+[2020.06.07-22.39.21:334][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bradly_d_BuiltData" FILE="F:/Brain_Blast/Bradley_D/Content/Bradly_d_BuiltData.uasset" SILENT=true
+[2020.06.07-22.39.21:539][154]LogSavePackage: Moving 'F:/Brain_Blast/Bradley_D/Saved/Bradly_d_BuiltDataDCDE40BE49E250D8EE27D38B65644B24.tmp' to 'F:/Brain_Blast/Bradley_D/Content/Bradly_d_BuiltData.uasset'
+[2020.06.07-22.39.22:900][278]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-22.39.26:310][639]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-22.39.26:317][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bradly_d" FILE="F:/Brain_Blast/Bradley_D/Content/Bradly_d.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.07-22.39.26:403][639]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.06.07-22.39.26:824][639]LogSavePackage: Moving 'F:/Brain_Blast/Bradley_D/Saved/Bradly_d1E63C35E4DB931D916EE508F214124AA.tmp' to 'F:/Brain_Blast/Bradley_D/Content/Bradly_d.umap'
+[2020.06.07-22.39.26:843][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bradly_d_BuiltData" FILE="F:/Brain_Blast/Bradley_D/Content/Bradly_d_BuiltData.uasset" SILENT=true
+[2020.06.07-22.39.27:047][639]LogSavePackage: Moving 'F:/Brain_Blast/Bradley_D/Saved/Bradly_d_BuiltDataE9A44CDE4FC7407BA624468D6BB7701B.tmp' to 'F:/Brain_Blast/Bradley_D/Content/Bradly_d_BuiltData.uasset'
+[2020.06.07-22.40.53:900][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-22.40.54:256][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-22.40.54:669][127]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-22.40.57:342][379]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-22.40.57:350][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bradly_d" FILE="F:/Brain_Blast/Bradley_D/Content/Bradly_d.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.07-22.40.57:424][379]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2020.06.07-22.40.57:928][379]LogSavePackage: Moving 'F:/Brain_Blast/Bradley_D/Saved/Bradly_dE663528E4832B146293164A451EE51F7.tmp' to 'F:/Brain_Blast/Bradley_D/Content/Bradly_d.umap'
+[2020.06.07-22.40.57:948][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bradly_d_BuiltData" FILE="F:/Brain_Blast/Bradley_D/Content/Bradly_d_BuiltData.uasset" SILENT=true
+[2020.06.07-22.40.58:171][379]LogSavePackage: Moving 'F:/Brain_Blast/Bradley_D/Saved/Bradly_d_BuiltData2545CEA847DA7E11CD80E4B653AFCC08.tmp' to 'F:/Brain_Blast/Bradley_D/Content/Bradly_d_BuiltData.uasset'
+[2020.06.07-22.42.40:112][989]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-22.42.41:058][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-22.42.41:066][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bradly_d" FILE="F:/Brain_Blast/Bradley_D/Content/Bradly_d.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.07-22.42.41:159][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.06.07-22.42.41:573][ 92]LogSavePackage: Moving 'F:/Brain_Blast/Bradley_D/Saved/Bradly_d4DDEB5934863D96368E94B880C3E51B6.tmp' to 'F:/Brain_Blast/Bradley_D/Content/Bradly_d.umap'
+[2020.06.07-22.42.41:591][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bradly_d_BuiltData" FILE="F:/Brain_Blast/Bradley_D/Content/Bradly_d_BuiltData.uasset" SILENT=true
+[2020.06.07-22.42.41:808][ 92]LogSavePackage: Moving 'F:/Brain_Blast/Bradley_D/Saved/Bradly_d_BuiltDataF04E6A72402CEB473C121FB56BD0331B.tmp' to 'F:/Brain_Blast/Bradley_D/Content/Bradly_d_BuiltData.uasset'
+[2020.06.07-22.46.54:011][136]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-22.46.54:018][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bradly_d" FILE="F:/Brain_Blast/Bradley_D/Content/Bradly_d.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.07-22.46.54:103][136]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.06.07-22.46.54:837][136]LogSavePackage: Moving 'F:/Brain_Blast/Bradley_D/Saved/Bradly_d05D8EB6D49810F7ED4592DAD2E04AFF8.tmp' to 'F:/Brain_Blast/Bradley_D/Content/Bradly_d.umap'
+[2020.06.07-22.46.54:856][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bradly_d_BuiltData" FILE="F:/Brain_Blast/Bradley_D/Content/Bradly_d_BuiltData.uasset" SILENT=true
+[2020.06.07-22.46.55:126][136]LogSavePackage: Moving 'F:/Brain_Blast/Bradley_D/Saved/Bradly_d_BuiltData3588E5F849FDF114DDC507AE41F932F7.tmp' to 'F:/Brain_Blast/Bradley_D/Content/Bradly_d_BuiltData.uasset'
+[2020.06.07-22.46.56:637][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-22.46.56:804][290]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.06.07-22.46.56:851][290]LogSlate: Window 'Bradley_D - Unreal Editor' being destroyed
+[2020.06.07-22.46.57:115][291]Cmd: QUIT_EDITOR
+[2020.06.07-22.46.57:222][291]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.06.07-22.46.57:269][291]LogExit: Preparing to exit.
+[2020.06.07-22.46.58:092][291]LogExit: Editor shut down
+[2020.06.07-22.46.58:093][291]LogExit: Transaction tracking system shut down
+[2020.06.07-22.46.58:571][291]LogExit: Object subsystem successfully closed.
+[2020.06.07-22.46.58:612][291]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.06.07-22.46.58:620][291]LogD3D11RHI: Shutdown
+[2020.06.07-22.46.58:620][291]LogD3D11RHI: CleanupD3DDevice
+[2020.06.07-22.46.58:624][291]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.06.07-22.46.58:624][291]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.06.07-22.46.58:624][291]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.06.07-22.46.58:624][291]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.06.07-22.46.58:624][291]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.06.07-22.46.58:624][291]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.06.07-22.46.58:787][291]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.06.07-22.46.58:883][291]LogModuleManager: Shutting down and abandoning module BlueprintGraph (648)
+[2020.06.07-22.46.58:883][291]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (646)
+[2020.06.07-22.46.58:883][291]LogModuleManager: Shutting down and abandoning module Voice (644)
+[2020.06.07-22.46.58:883][291]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2020.06.07-22.46.58:883][291]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2020.06.07-22.46.58:883][291]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2020.06.07-22.46.58:888][291]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2020.06.07-22.46.58:888][291]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2020.06.07-22.46.58:888][291]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2020.06.07-22.46.58:888][291]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2020.06.07-22.46.58:889][291]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2020.06.07-22.46.58:889][291]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2020.06.07-22.46.58:891][291]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2020.06.07-22.46.58:891][291]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2020.06.07-22.46.58:891][291]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2020.06.07-22.46.58:891][291]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2020.06.07-22.46.58:891][291]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2020.06.07-22.46.58:891][291]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2020.06.07-22.46.58:891][291]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2020.06.07-22.46.58:893][291]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2020.06.07-22.46.58:893][291]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2020.06.07-22.46.58:893][291]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2020.06.07-22.46.58:893][291]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2020.06.07-22.46.58:894][291]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2020.06.07-22.46.58:894][291]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2020.06.07-22.46.58:897][291]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2020.06.07-22.46.58:897][291]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2020.06.07-22.46.58:899][291]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2020.06.07-22.46.58:900][291]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2020.06.07-22.46.58:900][291]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2020.06.07-22.46.58:900][291]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2020.06.07-22.46.58:900][291]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2020.06.07-22.46.58:900][291]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2020.06.07-22.46.58:900][291]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2020.06.07-22.46.58:902][291]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2020.06.07-22.46.58:903][291]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2020.06.07-22.46.58:903][291]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2020.06.07-22.46.58:903][291]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2020.06.07-22.46.58:903][291]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2020.06.07-22.46.58:903][291]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2020.06.07-22.46.58:903][291]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2020.06.07-22.46.58:903][291]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2020.06.07-22.46.58:903][291]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2020.06.07-22.46.58:903][291]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2020.06.07-22.46.58:903][291]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2020.06.07-22.46.58:903][291]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2020.06.07-22.46.58:903][291]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2020.06.07-22.46.58:903][291]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2020.06.07-22.46.58:903][291]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2020.06.07-22.46.58:903][291]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2020.06.07-22.46.58:903][291]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2020.06.07-22.46.58:903][291]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2020.06.07-22.46.58:903][291]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2020.06.07-22.46.58:903][291]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2020.06.07-22.46.58:904][291]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2020.06.07-22.46.58:905][291]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2020.06.07-22.46.58:907][291]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2020.06.07-22.46.58:908][291]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2020.06.07-22.46.58:909][291]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2020.06.07-22.46.58:909][291]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2020.06.07-22.46.58:909][291]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2020.06.07-22.46.58:909][291]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2020.06.07-22.46.58:910][291]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2020.06.07-22.46.59:111][291]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2020.06.07-22.46.59:111][291]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2020.06.07-22.46.59:111][291]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2020.06.07-22.46.59:111][291]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2020.06.07-22.46.59:111][291]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2020.06.07-22.46.59:111][291]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2020.06.07-22.46.59:112][291]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2020.06.07-22.46.59:113][291]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2020.06.07-22.46.59:114][291]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2020.06.07-22.46.59:114][291]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2020.06.07-22.46.59:114][291]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2020.06.07-22.46.59:115][291]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2020.06.07-22.46.59:115][291]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2020.06.07-22.46.59:116][291]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2020.06.07-22.46.59:117][291]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2020.06.07-22.46.59:117][291]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2020.06.07-22.46.59:117][291]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2020.06.07-22.46.59:117][291]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2020.06.07-22.46.59:118][291]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2020.06.07-22.46.59:119][291]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2020.06.07-22.46.59:120][291]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2020.06.07-22.46.59:120][291]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2020.06.07-22.46.59:121][291]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2020.06.07-22.46.59:165][291]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2020.06.07-22.46.59:166][291]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2020.06.07-22.46.59:167][291]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2020.06.07-22.46.59:169][291]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2020.06.07-22.46.59:169][291]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2020.06.07-22.46.59:169][291]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2020.06.07-22.46.59:170][291]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2020.06.07-22.46.59:170][291]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2020.06.07-22.46.59:171][291]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2020.06.07-22.46.59:171][291]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2020.06.07-22.46.59:171][291]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2020.06.07-22.46.59:182][291]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2020.06.07-22.46.59:182][291]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2020.06.07-22.46.59:182][291]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2020.06.07-22.46.59:182][291]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2020.06.07-22.46.59:183][291]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2020.06.07-22.46.59:183][291]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2020.06.07-22.46.59:183][291]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2020.06.07-22.46.59:183][291]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2020.06.07-22.46.59:184][291]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2020.06.07-22.46.59:185][291]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2020.06.07-22.46.59:185][291]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2020.06.07-22.46.59:185][291]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2020.06.07-22.46.59:185][291]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2020.06.07-22.46.59:185][291]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2020.06.07-22.46.59:185][291]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2020.06.07-22.46.59:185][291]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2020.06.07-22.46.59:185][291]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2020.06.07-22.46.59:185][291]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2020.06.07-22.46.59:185][291]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2020.06.07-22.46.59:186][291]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2020.06.07-22.46.59:186][291]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2020.06.07-22.46.59:186][291]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2020.06.07-22.46.59:186][291]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2020.06.07-22.46.59:187][291]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2020.06.07-22.46.59:194][291]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2020.06.07-22.46.59:341][291]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2020.06.07-22.46.59:342][291]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2020.06.07-22.46.59:342][291]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2020.06.07-22.46.59:343][291]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2020.06.07-22.46.59:343][291]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2020.06.07-22.46.59:343][291]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2020.06.07-22.46.59:343][291]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2020.06.07-22.46.59:343][291]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2020.06.07-22.46.59:344][291]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2020.06.07-22.46.59:344][291]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2020.06.07-22.46.59:344][291]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2020.06.07-22.46.59:344][291]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2020.06.07-22.46.59:344][291]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2020.06.07-22.46.59:345][291]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2020.06.07-22.46.59:345][291]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2020.06.07-22.46.59:347][291]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2020.06.07-22.46.59:347][291]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2020.06.07-22.46.59:347][291]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2020.06.07-22.46.59:347][291]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2020.06.07-22.46.59:347][291]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2020.06.07-22.46.59:347][291]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2020.06.07-22.46.59:348][291]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2020.06.07-22.46.59:348][291]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2020.06.07-22.46.59:348][291]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2020.06.07-22.46.59:348][291]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2020.06.07-22.46.59:348][291]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2020.06.07-22.46.59:348][291]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2020.06.07-22.46.59:348][291]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2020.06.07-22.46.59:348][291]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2020.06.07-22.46.59:348][291]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2020.06.07-22.46.59:348][291]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2020.06.07-22.46.59:348][291]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2020.06.07-22.46.59:348][291]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2020.06.07-22.46.59:348][291]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2020.06.07-22.46.59:349][291]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2020.06.07-22.46.59:349][291]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2020.06.07-22.46.59:351][291]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2020.06.07-22.46.59:352][291]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2020.06.07-22.46.59:352][291]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.06.07-22.46.59:353][291]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.06.07-22.46.59:353][291]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.06.07-22.46.59:353][291]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.06.07-22.46.59:353][291]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.06.07-22.46.59:353][291]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.06.07-22.46.59:354][291]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.06.07-22.46.59:355][291]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.06.07-22.46.59:356][291]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.06.07-22.46.59:357][291]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.06.07-22.46.59:357][291]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2020.06.07-22.46.59:357][291]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2020.06.07-22.46.59:357][291]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2020.06.07-22.46.59:357][291]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2020.06.07-22.46.59:357][291]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2020.06.07-22.46.59:357][291]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2020.06.07-22.46.59:357][291]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2020.06.07-22.46.59:358][291]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2020.06.07-22.46.59:359][291]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2020.06.07-22.46.59:359][291]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2020.06.07-22.46.59:359][291]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2020.06.07-22.46.59:359][291]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.06.07-22.46.59:359][291]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.06.07-22.46.59:359][291]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.06.07-22.46.59:460][291]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.06.07-22.46.59:562][291]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2020.06.07-22.46.59:562][291]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2020.06.07-22.46.59:562][291]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2020.06.07-22.46.59:562][291]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2020.06.07-22.46.59:563][291]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2020.06.07-22.46.59:563][291]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.06.07-22.46.59:563][291]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2020.06.07-22.46.59:563][291]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2020.06.07-22.46.59:563][291]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2020.06.07-22.46.59:563][291]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2020.06.07-22.46.59:564][291]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2020.06.07-22.46.59:564][291]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2020.06.07-22.46.59:564][291]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.06.07-22.46.59:565][291]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2020.06.07-22.46.59:567][291]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2020.06.07-22.46.59:567][291]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2020.06.07-22.46.59:568][291]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2020.06.07-22.46.59:568][291]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2020.06.07-22.46.59:570][291]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.06.07-22.46.59:571][291]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2020.06.07-22.46.59:571][291]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.06.07-22.46.59:571][291]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.06.07-22.46.59:571][291]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.06.07-22.46.59:571][291]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.06.07-22.46.59:571][291]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.06.07-22.46.59:572][291]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.06.07-22.46.59:573][291]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.06.07-22.46.59:573][291]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.06.07-22.46.59:573][291]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.06.07-22.46.59:574][291]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.06.07-22.46.59:574][291]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.06.07-22.46.59:574][291]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.06.07-22.46.59:574][291]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.06.07-22.46.59:575][291]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.06.07-22.46.59:576][291]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.06.07-22.46.59:576][291]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.06.07-22.46.59:577][291]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.06.07-22.46.59:578][291]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.06.07-22.46.59:579][291]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.06.07-22.46.59:579][291]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.06.07-22.46.59:580][291]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.06.07-22.46.59:582][291]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.06.07-22.46.59:584][291]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.06.07-22.46.59:584][291]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.06.07-22.46.59:586][291]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.06.07-22.46.59:586][291]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.06.07-22.46.59:589][291]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.06.07-22.46.59:589][291]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.06.07-22.46.59:589][291]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.06.07-22.46.59:589][291]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.06.07-22.46.59:589][291]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.06.07-22.46.59:589][291]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.06.07-22.46.59:589][291]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.06.07-22.46.59:589][291]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.06.07-22.46.59:589][291]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.06.07-22.46.59:590][291]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.06.07-22.46.59:590][291]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.06.07-22.46.59:590][291]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.06.07-22.46.59:591][291]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.06.07-22.46.59:592][291]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.06.07-22.46.59:592][291]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.06.07-22.46.59:593][291]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.06.07-22.46.59:614][291]LogDerivedDataCache: Shutdown
+[2020.06.07-22.46.59:614][291]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.06.07-22.46.59:614][291]LogXGEController: Cleaning working directory: C:/Users/devin/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.06.07-22.46.59:614][291]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.06.07-22.46.59:615][291]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.06.07-22.46.59:615][291]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.06.07-22.46.59:616][291]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.06.07-22.46.59:616][291]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.06.07-22.46.59:616][291]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.06.07-22.46.59:617][291]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.06.07-22.46.59:617][291]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.06.07-22.46.59:617][291]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.06.07-22.46.59:617][291]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.06.07-22.46.59:618][291]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.06.07-22.46.59:618][291]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.06.07-22.46.59:618][291]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.06.07-22.46.59:618][291]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.06.07-22.46.59:618][291]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.06.07-22.46.59:618][291]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.06.07-22.46.59:619][291]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.06.07-22.46.59:630][291]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.06.07-22.46.59:630][291]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.06.07-22.46.59:630][291]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.06.07-22.46.59:630][291]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.06.07-22.46.59:631][291]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.06.07-22.46.59:636][291]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.06.07-22.46.59:636][291]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.06.07-22.46.59:640][291]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.06.07-22.46.59:640][291]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.06.07-22.46.59:668][291]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.06.07-22.46.59:668][291]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.06.07-22.46.59:668][291]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.06.07-22.46.59:668][291]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.06.07-22.46.59:668][291]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.06.07-22.46.59:668][291]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.06.07-22.46.59:668][291]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.06.07-22.46.59:668][291]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.06.07-22.46.59:668][291]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.06.07-22.46.59:668][291]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.06.07-22.46.59:668][291]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.06.07-22.46.59:668][291]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.06.07-22.46.59:671][291]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.06.07-22.46.59:671][291]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.06.07-22.46.59:672][291]LogHMD: Freeing OpenVRDLLHandle.
+[2020.06.07-22.46.59:672][291]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.06.07-22.46.59:672][291]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.06.07-22.46.59:673][291]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.06.07-22.46.59:673][291]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.06.07-22.46.59:673][291]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.06.07-22.46.59:674][291]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.06.07-22.46.59:674][291]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.06.07-22.46.59:705][291]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.06.07-22.46.59:705][291]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.06.07-22.46.59:705][291]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD4F36E53-4CC9-3384-C671-288C060F192E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1d2f0fcd462c5ebb21d2f9b7ad1f5b8c%7C2cf7905d443c487fbebac155e216fbf4%7C9d2cb2eb-42eb-4ee1-bc7d-e920e3910ca0&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.06.07-22.46.59:721][291]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.06.07-22.46.59:724][291]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.06.07-22.46.59:726][291]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.06.07-22.46.59:732][291]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.06.07-22.46.59:733][291]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.06.07-22.46.59:733][291]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.06.07-22.46.59:734][291]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.06.07-22.46.59:735][291]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.06.07-22.46.59:736][291]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.06.07-22.46.59:737][291]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.06.07-22.46.59:737][291]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.06.07-22.46.59:737][291]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.06.07-22.46.59:738][291]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.06.07-22.46.59:739][291]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.06.07-22.46.59:739][291]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.06.07-22.46.59:739][291]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.06.07-22.46.59:739][291]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.06.07-22.46.59:740][291]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.06.07-22.46.59:740][291]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.06.07-22.46.59:741][291]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.06.07-22.46.59:741][291]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.06.07-22.46.59:741][291]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.06.07-22.46.59:741][291]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.06.07-22.46.59:741][291]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.06.07-22.46.59:749][291]LogExit: Exiting.
+[2020.06.07-22.46.59:840][291]Log file closed, 06/07/20 18:46:59
